@@ -189,4 +189,4 @@ This project was developed between January 2025 and April 2025 as part of the **
 ---
 
 ## License
-This project is licensed under the terms specified in the [License](License) file **(MIT License)**.
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file **(MIT License)**.
