@@ -6,7 +6,6 @@ This project focuses on improving the inventory management and profitability of 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Objectives](#objectives)
 - [Software Requirements](#software-requirements)
 - [Implementation Steps](#implementation-steps)
   - [Data Collection](#data-collection)
