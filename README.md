@@ -7,7 +7,6 @@ This project focuses on improving the inventory management and profitability of 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Objectives](#objectives)
 - [Software Requirements](#software-requirements)
 - [Implementation Steps](#implementation-steps)
   - [Data Collection](#data-collection)
@@ -213,4 +212,4 @@ This project was developed between January 2025 and April 2025 as part of the **
 ---
 
 ## License
-This project is licensed under the terms specified in the [License](License) file **(MIT License)**.
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file **(MIT License)**.
