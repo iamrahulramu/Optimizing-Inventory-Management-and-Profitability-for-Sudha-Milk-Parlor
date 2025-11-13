@@ -185,7 +185,7 @@ Based on the insights derived from different analyses, the following recommendat
 ---
 
 ## Acknowledgements
-This project was developed between January 2025 and April 2025 as part of the _Business Data Management Project_ of the Online IIT Madras BS Degree Program in Data Science and Applications. The reports submitted during different phases of the project - Proposal Report, Mid-Term Report, and End-Term Report - can be found in [Report](Report).
+This project was developed between January 2025 and April 2025 as part of the _Business Data Management Project_ of the Online BS Degree in Data Science and Applications offered by IIT Madras, Chennai, Tamil Nadu. The reports submitted during different phases of the project - Proposal Report, Mid-Term Report, and End-Term Report - can be found in [Report](Report).
 
 ---
 
