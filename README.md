@@ -148,19 +148,19 @@ Here,
 ## Results
 Based on the analyses performed on the collected data, the following results were obtained:
 
-- **Daily Revenue Trend** <br>
-The visualization provided a clear understanding of revenue stability, identifying high-demand periods (like the festive season in December–January) and lower-performing periods in February.
+- **Daily Revenue Trend**   
+  The visualization provided a clear understanding of revenue stability, identifying high-demand periods (like the festive season in December–January) and lower-performing periods in February.
 
 - **Product-Wise Revenue Contribution**   
   This analysis revealed that three products - Cow Milk (1L), Sudha Gold Milk (500mL), and Shakti Milk (1L) - collectively accounted for over 80% of the total revenue. Additionally, the 1L variants showed higher profitability than the 500mL variants.
 
-- **Sales Conversion Rate** <br>
+- **Sales Conversion Rate**   
   The visualization highlighted that products such as Shakti Milk (1L) and Cow Milk (1L) had conversion rates above 99.8%, marking them as fast-moving, while 500mL variants showed slower movement and potential overstocking.
 
-- **Profit Margin** <br>
+- **Profit Margin**   
   The analysis revealed that Sudha Gold Milk (500mL) was the most profitable product, followed closely by Cow Milk (1L). Conversely, Sudha Gold Milk (1L) incurred a net loss, making it a key candidate for purchase quantity reduction in future restocking cycles.
 
-- **Optimal Purchase Quantity**  
+- **Optimal Purchase Quantity**   
   The visualization revealed that high-performing products (like Shakti Milk 1L and Cow Milk 1L) were under-purchased, whereas slow-moving ones (like Sudha Gold 1L) were over-purchased. 
 
 ---
@@ -168,19 +168,19 @@ The visualization provided a clear understanding of revenue stability, identifyi
 ## Recommendations
 Based on the insights derived from different analyses, the following recommendations were proposed to the shop owner to improve the overall efficiency of the shop's operations:
 
-- **Optimal Purchase Quantity**
-  - Developed a formula to determine the optimal restocking level for each product based on actual sales trends.
-  - This formula helps maintain sufficient stock of high-demand products while minimizing overstocking of slow-moving items.
+- **Optimal Purchase Quantity**   
+  Developed a formula to determine the optimal restocking level for each product based on actual sales trends. This formula helps maintain sufficient stock of high-demand products while minimizing overstocking of slow-moving items.
 
 - **Dynamic Pricing Mechanism**  
-  - Proposed a tiered discounting strategy for near-expiry products to reduce wastage and recover potential losses:
+  Proposed a tiered discounting strategy for near-expiry products to reduce wastage and recover potential losses:
     - Products expiring in 2 days → 25% discount
     - Products expiring in 1 day → 50% discount
-    - Products expiring on the same day → 75% discount
-  - This strategy ensures improved turnover, reduced product wastage, and better utilization of inventory space.
+    - Products expiring on the same day → 75% discount   
+  
+  This strategy ensures improved turnover, reduced product wastage, and better utilization of inventory space.
 
-- **Inventory Prioritization**
-  - Recommended focusing on 1L variants of milk products, as they consistently outperformed the 500mL variants in terms of both sales volume and profit margins.   
+- **Inventory Prioritization**   
+  Recommended focusing on 1L variants of milk products, as they consistently outperformed the 500mL variants in terms of both sales volume and profit margins.   
 
 ---
 
