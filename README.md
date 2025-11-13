@@ -130,7 +130,7 @@ profit_loss = {
 Profitability for each product was determined by comparing total sales revenue with total procurement cost. A bar chart was plotted to visualize net profit or loss per product. 
 
 **Optimal Purchase Quantity Estimation**
-
+<br>
 Finally, optimal purchase quantities were estimated for each product to align procurement with sales performance and minimize wastage. A bar chart was plotted to compared the actual versus recommended purchase quantities of each product.
 
 ```python
